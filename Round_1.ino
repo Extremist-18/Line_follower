@@ -1,5 +1,6 @@
 // Round 1
-
+//Cpp based code
+// You may directly upload the code to MicroController after manipulation according to your requirement
 #define m1 8  //Right Motor MA1
 #define m2 9  //Right Motor MA2
 #define m3 10  //Left Motor MB1
